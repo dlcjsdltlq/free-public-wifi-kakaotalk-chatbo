@@ -1,0 +1,6 @@
+__pycache__/
+*.pem
+*.xlsx
+*.pyc
+*.log
+db_pw.json
